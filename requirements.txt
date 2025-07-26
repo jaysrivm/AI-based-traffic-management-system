@@ -1,0 +1,6 @@
+numpy==1.21.0
+opencv-python
+tqdm
+protobuf
+onnx
+netron
