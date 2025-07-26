@@ -37,16 +37,6 @@ This  comparison is tested on jetson nano
 - Displays a simulation
 
 
-## Work flow
-
-
-<p float="left">
-  <img src="/screenshots/workflow.png" width="600" height=400 />
-
-  
-
-</p>
-
 
 ## Devices Used
 
@@ -113,6 +103,6 @@ $ python3 main.py --sources video1.mp4,video2.mp4,video3.mp4,video5.mp4
  2.  How to export onnx model to tensorrt:
    https://github.com/SeanAvery/yolov5-tensorrt
 
-
+## Working Model
 ![img](https://github.com/user-attachments/assets/5fbd04db-a20e-4783-b8e1-bd515b3e113d)
 
